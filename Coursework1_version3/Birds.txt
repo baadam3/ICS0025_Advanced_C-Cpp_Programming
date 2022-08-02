@@ -1,0 +1,941 @@
+(Black) Capped Petrel
+(Bohemian) Waxwing
+(Common) Black-shouldered Kite
+(Greater) Painted Snipe
+(Rock) Ptarmigan
+(Rufous) Red-tailed Wheatear
+(Winter) Wren
+[domestic Ringed Turtle (Barbary) Dove]
+Adalbert's Eagle
+African Black Oystercatcher
+African Darter
+African Fish Eagle
+African Jacana
+African Marsh Owl
+African Openbill
+African Silverbill
+Ahanta Francolin
+Aleutian Tern
+Allen's Gallinule
+Alpine Accentor
+Alpine Chough
+Alpine Swift
+American Bittern
+American Black Duck
+American Crow
+American Golden Plover
+
+American Kestrel
+American Pipit
+American Purple Gallinule
+American Redstart
+American Robin
+American Wigeon
+Anhinga
+Aquatic Warbler
+Arabian Babbler
+Arabian Bustard
+Arctic Redpoll
+Arctic Skua
+Arctic Tern
+Arctic Warbler
+Armenian Gull
+Atlantic Puffin
+Audouin's Gull
+Audubon's Shearwater
+Avocet
+Azure Tit
+Azure winged Magpie
+Baikal Teal
+Baillon's Crake
+Baird's Sandpiper
+Balearic Shearwater
+Barbary Falcon
+Barbary Partridge
+Bar-headed Goose
+Barn Owl
+Barnacle Goose
+Barred Warbler
+Barrow's Goldeneye
+Bar-tailed Godwit
+Bar-tailed Lark
+Basra Reed-Warbler
+Bay-breasted Warbler
+Bean Goose
+Bearded Tit (Parrotbill)
+Bee-eater
+Belted Kingfisher
+Berthelot's Pipit
+Bewick (Tundra) Swan
+BIack-billed Cuckoo
+Bimaculated Lark
+Bittern
+Black (Monk/Cinereous) Vulture
+Black (White-capped) Noddy
+Black Francolin
+Black Grouse
+Black Guillemot
+Black Kite
+Black Lark
+Black Redstart
+Black Stork
+Black Swan
+Black Tern
+Black Vulture
+Black Wheatear
+Black Woodpecker
+Black-and-White Warbler
+Black-bellied Sandgrouse
+Blackbird
+Black-browed Albatross
+Blackburnian Warbler
+Blackcap
+Black-crowned Finch-lark
+Black-crowned Night Heron
+Black-eared Wheatear
+Black-faced Bunting
+Black-footed Albatross
+Black-headed Bunting
+Black-headed Gull
+Black-headed Heron
+Black-headed Tchagra (Bush Shrike)
+Black-necked (Eared) Grebe
+Blackpoll Warbler
+Blackstart
+Black-tailed Godwit
+Black-throated (Arctic Loon) Diver
+Black-throated Accentor
+Black-throated Blue Warbler
+Black-throated Green Warbler
+Black-throated Thrush
+Black-vented (Wagler's) Oriole
+Black-winged Pratincole
+Black-winged Stilt
+Blue Chaffinch (Teydefinch)
+Blue Grosbeak
+Blue Rock Thrush
+Blue Tit
+Blue-cheeked Bee-eater
+Blue-grey Gnatcatcher
+Bluethroat
+Blue-winged Teal
+Blue-winged Warbler
+Blyth's Pipit
+Blyth's Reed Warbler
+Boat-tailed Grackle
+Bobolink
+Bonaparte's Gull
+Bonelli's Eagle
+Bonelli's Warbler
+Booted Eagle
+Booted Warbler
+Brambling
+Brent Goose
+Bridled Tern
+Broad-billed Sandpiper
+Brooks's Leaf-Warbler
+Brown (Common) Noddy
+Brown Booby
+Brown Fish Owl
+Brown Flycatcher
+Brown Shrike
+Brown Thrasher
+Brown-headed Cowbird
+Brown-headed Gull
+Brown-necked Raven
+BrÅnnich's Guillemot (Thick-billed Murre)
+Buff-breasted Sandpiper
+Bufflehead
+Bullfinch
+Bullock's Oriole
+Bulwer's Petrel
+Buzzard
+Calandra Lark
+California Quail
+Cameroon Francolin
+Canada Goose
+Canada Warbler
+Canaries Chiffchaff
+Canaries Islands Chat
+Canary
+Canary Islands Kinglet
+Cape Francolin
+Cape May Warbler
+Cape Verde Swamp-Warbler
+Capercaillie
+Carrion/Hooded Crow
+Caspian Plover
+Caspian Snowcock
+Caspian Tern
+Catbird
+Cattle Egret
+Caucasian (Black) Grouse
+Caucasian Chiffchaff
+Caucasian Snowcock
+Cerulean Warbler
+Cetti's Warbler
+Chaffinch
+Chestnut Bunting
+Chestnut-bellied Sandgrouse
+Chestnut-breasted (White-capped) Bunting
+Chestnut-naped Francolin
+Chestnut-shouldered (Yellow-throated) Sparrow
+Chestnut-sided Warbler
+Chiffchaff
+Chinese Francolin
+Chough
+Chukar
+Cinereous Bunting
+Cinnamon-breasted Bunting
+Cirl Bunting
+Citril Finch
+Citrine Wagtail
+Clamorous Reed Warbler
+Clapperton's Francolin
+Coal Tit
+Collared Dove
+Collared Flycatcher
+Collared Pratincole
+Common (Black) Scoter
+Common (Red) Crossbill
+Common Babbler
+Common Bulbul
+Common Grackle
+Common Gull
+Common Myna
+Common Nighthawk
+Common Raven
+Common Rosefinch
+Common Sandpiper
+Common Teal
+Common Tern
+Common Waxbill
+Common Yellowthroat
+Cooper's Hawk
+Coot
+Coqui Francolin
+Corn Bunting
+Corncrake
+Corsican Finch
+Corsican Nuthatch
+Cory's Shearwater
+Crab Plover
+Crag Martin
+Crane
+Cream-coloured Courser
+Crested (Red-knobbed) Coot
+Crested Francolin
+Crested Lark
+Crested Tit
+Cretzschmar's Bunting
+Cricket Longtail
+Crimson-winged Finch
+Crowned Sandgrouse
+Cuckoo
+Curlew
+Curlew Sandpiper
+Cyprus Warbler
+Cyprus Wheatear
+Dalmatian Pelican
+Dark Chanting Goshawk
+Dark-eyed Junco
+Dartford Warbler
+Daurian Jackdaw
+Dead Sea Sparrow
+Demoiselle Crane
+Desert Finch
+Desert Lark
+Desert Lesser Whitethroat
+Desert Sparrow
+Desert Warbler
+Desert Wheatear
+Dickcissel
+Dipper
+Dotterel
+Double-crested Cormorant
+Double-spurred Francolin
+Dunlin
+Dunnock
+Dunn's Lark
+Dupont's Lark
+Dusky Warbler
+Dusky/Naumann's Thrush
+Eagle Owl
+Eastern (Common) Meadowlark
+Eastern (Rufous-sided) Towhee
+Eastern Bonelli's Warbler
+Eastern Chiffchaff
+Eastern Crowned-Warbler
+Eastern Rock Nuthatch
+Egyptian Goose
+Egyptian Nightjar
+Egyptian Plover (Crocodile-bird)
+Egyptian Vulture
+Eider
+Elegant Tern
+Eleonora's Falcon
+Erckel's Francolin
+Eskimo Curlew
+Evening Grosbeak
+Eversmann's (Rufous-backed) Redstart
+Eyebrowed Thrush
+Falcated Duck
+Fan-tailed Raven
+Fan-tailed Warbler (Zitting Cisticola)
+Ferruginous Duck
+Field Sparrow
+Fieldfare
+Finsch's Francolin
+Finsch's Wheatear
+Firecrest
+Forest Francolin
+Forster's Tern
+Fox Sparrow
+Franklin's Gull
+Freira (Madeira Petrel)
+Fulmar
+Fulvous Babbler (Chatterer)
+Fulvous Whistling Duck
+Gadwall
+Gannet
+Garden Warbler
+Garganey
+Glaucous Gull
+Glaucous-winged Gull
+Glossy Ibis
+Goldcrest
+Golden Eagle
+Golden Oriole
+Golden Pheasant
+Golden Plover
+Golden-crowned Kinglet
+Goldeneye
+Golden-winged Warbler
+Goldfinch
+Goliath Heron
+Gon-gon (Cape Verde Petrel)
+Goosander
+Goshawk
+Graceful Warbler (Prinia)
+Grasshopper Warbler
+Gray's Grasshopper Warbler
+Great (White) Egret
+Great Black-backed Gull
+Great Black-headed Gull
+Great Blue Heron
+Great Bustard
+Great Cormorant
+Great Crested Grebe
+Great Grey (Northern) Shrike
+Great Grey (Southern) Shrike
+Great Grey Owl
+Great Northern Diver (Common Loon)
+Great Reed Warbler
+Great Rosefinch
+Great Shearwater
+Great Skua
+Great Snipe
+Great Spotted Cuckoo
+Great Spotted Woodpecker
+Great Tit
+Greater Crested (Swift) Tern
+Greater Flamingo
+Greater Sand Plover
+Greater Scaup
+Greater Short-toed Lark
+Greater Yellowlegs
+Green Pheasant
+Green Sandpiper
+Green Warbler
+Green Woodpecker
+Green-backed Heron
+Greenfinch
+Greenish Warbler
+Greenshank
+Grey (Red) Phalarope
+Grey Francolin
+Grey Heron
+Grey Hypocolius
+Grey Partridge
+Grey Plover
+Grey Wagtail
+Grey-backed Fiscal
+Grey-breasted Spurfowl
+Grey-cheeked Thrush
+Grey-headed (-faced) Woodpecker
+Grey-headed Albatross
+Grey-headed Gull
+Greylag Goose
+Grey-necked Bunting
+Grey-striped Francolin
+Grey-tailed Tattler
+Grey-winged Francolin
+Griffon Vulture
+Guillemot
+GÅldenstÑdt's (White-winged) Redstart
+Gull-billed Tern
+Gyrfalcon
+Hall's Giant-Petrel
+Handsome Francolin
+Harlequin Duck
+Hartlaub's Francolin
+Harwood's Francolin
+Hawfinch
+Hawk Owl
+Hazel Grouse
+Hen Harrier
+Hermit Thrush
+Herring Gull
+Heuglin's Francolin
+Hildebrandt's Francolin
+Himalayan (Oriental) Cuckoo
+Hobby
+Honey Buzzard
+Hooded Merganser
+Hooded Warbler
+Hooded Wheatear
+Hoopoe
+Hoopoe Lark
+Houbara Bustard
+House Bunting
+House Crow
+House Martin
+House Sparrow
+Hudsonian Godwit
+Hume's Lesser Whitethroat
+Hume's Owl
+Hume's Warbler
+Hume's Wheatear
+Hume's Yellow-browed Warbler
+Iago Sparrow
+Iberian Chiffchaff
+Iceland Gull
+Icterine Warbler
+Imperial Eagle
+Indian Pond Heron
+Indigo Bunting
+Iraq Babbler
+Isabelline (Rufous-tailed) Shrike
+Isabelline Wheatear
+Ivory Gull
+Jack Snipe
+Jackdaw
+Jackson's Francolin
+Japanese Grosbeak
+Jay
+Jouanin's Petrel
+Kabylie Nuthatch
+Kentish Plover
+Kermadec Petrel
+Kestrel
+Killdeer
+King Eider
+Kingfisher
+Kirk's Francolin
+Kittiwake
+Kittlitz's Plover
+Knot
+Kori Bustard
+KrÅper's Nuthatch
+Lady Amherst's Pheasant
+Lammergeier
+Lanceolated Warbler
+Lanner
+Lapland Bunting
+Lappet-faced Vulture
+Lapwing
+Lark Sparrow
+Laughing (Palm) Dove
+Laughing Gull
+Laurel Pigeon
+Lazuli Bunting
+Leach's Petrel
+Least (Little) Tern
+Least Sandpiper
+Lesser Black-backed Gull
+Lesser Crested Tern
+Lesser Grey Shrike
+Lesser Kestrel
+Lesser Masked Weaver
+Lesser Redpoll
+Lesser Sand (Mongolian) Plover
+
+Lesser Scaup
+Lesser Short-toed Lark
+Lesser Spotted Eagle
+Lesser Spotted Woodpecker
+Lesser White-fronted Goose
+Lesser Whitethroat
+Lesser Yellowlegs
+Levant Sparrowhawk
+Lichtenstein's Sandgrouse
+Linnet
+Little (House) Swift
+Little Auk (Dovekie)
+Little Bittern
+Little Blue Heron
+Little Bunting
+Little Bustard
+Little Crake
+Little Curlew
+Little Egret
+Little Grebe
+Little Green Bee-eater
+Little Gull
+Little Owl
+Little Ringed Plover
+Little Shearwater
+Little Stint
+LittleTern
+Loggerhead Shrike
+Long-billed Dowitcher
+
+Long-billed Pipit
+Long-eared Owl
+Long-legged Buzzard
+Long-tailed (Reed) Cormorant
+Long-tailed Duck (Old Squaw)
+Long-tailed Rosefinch
+Long-tailed Shrike
+Long-tailed Skua
+Long-tailed Tit
+Long-toed (Trocaz) Pigeon
+Louisiana Waterthrush
+Madeiran (Band-rumped) Storm Petrel
+Magnificent Frigatebird
+Magnolia Warbler
+Magpie
+Mallard
+Mandarin
+Manx Shearwater
+Marabou Stork
+Marbled Duck
+Marmora's Warbler
+Marsh Harrier
+Marsh Sandpiper
+Marsh Tit
+Marsh Warbler
+Masked Shrike
+Meadow Pipit
+Mealy Redpoll
+Mediterranean Gull
+Meinertzhagen's Warbler
+Melodious Warbler
+MÇnÇtries's Warbler
+Merlin
+Middle Spotted Woodpecker
+Mistle Thrush
+Mongolian Finch
+Montagu's Harrier
+Moorhen
+Moorland Francolin
+Mourning Wheatear
+Moussier's Redstart
+Moustached Warbler
+Mugimaki Flycatcher
+Mute Swan
+Nahan's Francolin
+Namaqua Dove
+Natal Francolin
+Needle-tailed Swift (White-throated spintail)
+Nightingale
+Nightjar
+Nile Valley Sunbird
+Northern (Baltimore) Oriole
+Northern Anteater-Chat
+Northern Bald Ibis
+Northern Bobwhite
+Northern Cardinal
+Northern Rough-winged Swallow
+Northern Waterthrush
+Nubian Nightjar
+Nutcracker
+Nuthatch
+Ochre-breasted (Djibouti) Francolin
+Olivaceous Warbler
+Olive-backed Pipit
+Olive-tree Warbler
+Orange River Francolin
+Orange-cheeked Waxbill
+Orange-tufted Sunbird
+Orphean Warbler
+Ortolan Bunting
+Osprey
+Ostrich
+Ovenbird
+Oystercatcher
+Pacific Golden Plover
+
+Paddyfield Warbler
+Painted Bunting
+Painted Francolin
+Pale Crag Martin
+Pale Rock Sparrow
+Pale-(Flesh-)footed Shearwater
+Pallas's Bunting
+Pallas's Grasshopper Warbler
+Pallas's Rosefinch
+Pallas's Sandgrouse
+Pallas's Sea-Eagle
+Pallas's Warbler
+Pallid (Bruce's) Scops Owl
+Pallid Harrier
+Pallid Swift
+Palm Warbler
+Parrot Crossbill
+Parula Warbler (Northern Parula)
+Pechora Pipit
+Pectoral Sandpiper
+Penduline Tit
+Peregrine Falcon
+Persian Shearwater
+Pheasant
+Philadelphia Vireo
+Pied Crow
+Pied Flycatcher
+Pied Kingfisher
+Pied Stonechat
+Pied Wheatear
+Pied-billed Grebe
+Pine Bunting
+Pine Grosbeak
+Pine Siskin
+Pink-backed Pelican
+Pink-footed Goose
+Pintado Petrel (Cape Pigeon)
+Pintail
+Pintail Snipe
+Pin-tailed Sandgrouse
+Plain Leaf-Warbler
+Plain Sand Martin
+Plain Swift
+Pochard
+Pomarine Skua
+Purple Gallinule
+Purple Heron
+Purple Sandpiper
+Pygmy Cormorant
+Pygmy Owl
+Pygmy Sunbird
+Quail
+Radde's Accentor
+Radde's Warbler
+Razorbill
+Red Avadavat
+Red Kite
+Red Sea Warbler
+Red-backed Shrike
+Red-bellied Woodpecker
+Red-billed Firefinch
+Red-billed Francolin
+Red-billed Oxpecker
+Red-billed Quelea
+Red-billed Tropicbird
+Red-breasted Flycatcher
+Red-breasted Goose
+Red-breasted Merganser
+Red-breasted Nuthatch
+Red-cheeked Cordonbleu
+Red-crested Pochard
+Red-eyed Vireo
+Red-flanked Bluetail
+Red-footed Falcon
+Red-fronted Serin
+Red-headed Bunting
+Red-legged Partridge
+Red-necked Grebe
+Red-necked Nightjar
+Red-necked Phalarope
+Red-necked Spurfowl
+Red-necked Stint
+Red-rumped Swallow
+Red-rumped Wheatear
+Redshank
+Red-shouldered Hawk
+Redstart
+Red-throated Diver
+Red-throated Pipit
+Red-wattled Plover
+Redwing
+Red-winged Blackbird
+Red-winged Francolin
+Reed Bunting
+Reed Warbler
+Reeve's Pheasant
+Richard's Pipit
+Ring Ouzel
+Ring-billed Gull
+Ringed Plover
+Ring-necked (Rose-ringed) Parakeet
+Ring-necked Duck
+Ring-necked Francolin
+River Warbler
+Robin
+Rock Bunting
+Rock Dove
+Rock Nuthatch
+Rock Partridge
+Rock Pipit
+Rock Sparrow
+Rock Thrush
+Roller
+Rook
+Roseate Tern
+Rose-breasted Grosbeak
+Rose-coloured Starling
+Rose-throated Tanager
+Ross's Gull
+Rough-legged Buzzard
+Royal Tern
+Ruby-crowned Kinglet
+Ruby-throated Hummingbird
+Ruddy Duck
+Ruddy Shelduck
+Ruddy Turnstone
+Ruff
+Rufous Bush Robin
+Rufous Turtle Dove
+RÅppell's Vulture
+RÅppell's Warbler
+Rustic Bunting
+Rusty Blackbird
+Sabine's Gull
+Sacred Ibis
+Saddle-billed Stork
+Saker
+Sand Martin
+Sand Partridge
+Sanderling
+Sandwich Tern
+Sardinian Warbler
+Saunders's Tern
+Savannah Sparrow
+Savi's Warbler
+Scaly Francolin
+Schlegel's (Atlantic) Petrel
+Schlegel's Francolin
+Scops Owl
+Scottish Crossbill
+Scrub Warbler
+Secretarybird
+Sedge Warbler
+See-see
+Semi-collared Flycatcher
+Semipalmated Sandpiper
+Senegal Coucal
+Senegal Thick-knee
+Serin
+Shag
+Sharp-tailed Sandpiper
+Shelduck
+Shelley's Francolin
+Shore (Horned) Lark
+Short-billed Dowitcher
+Short-eared Owl
+Short-toed Eagle
+Short-toed Treecreeper
+Shoveler
+Shrika
+Shy Albatross
+
+Siberian (Mountain) Accentor
+Siberian Jay
+Siberian Meadow Bunting
+Siberian Rubythroat
+Siberian Thrush
+Siberian Tit (Grey-headed Chicadee)
+Siberian White Crane
+Silver Pheasant
+Sinai (Pale) Rosefinch
+Siskin
+Skylark
+Slavonian (Horned) Grebe
+Slender-billed Curlew
+Slender-billed Gull
+Small (Oriental) Skylark
+Small Button Quail (Andalusian Hemipode)
+Smew
+Snail Kite
+Snipe
+Snow Bunting
+Snow Finch
+Snow Goose
+Snowy Owl
+Sociable Plover
+Socotra Cormorant
+Soft-plumaged Petrel
+Solitary Sandpiper
+Sombre Tit
+Song Sparrow
+Song Thrush
+Songar Tit
+Sooty Falcon
+Sooty Gull
+Sooty Shearwater
+Sooty Tern
+Sora Rail
+South Polar Skua
+Southern Giant Petrel
+Spanish Sparrow
+Sparrowhawk
+Spectacled Eider
+Spectacled Warbler
+Spoonbill
+Spotless Starling
+Spotted Crake
+Spotted Eagle
+Spotted Flycatcher
+Spotted Little Owl
+Spotted Redshank
+Spotted Sandgrouse
+Spotted Sandpiper
+Spur-winged Plover
+Squacco Heron
+Starling
+Steller's Eider
+Steppe Eagle
+Stilt Sandpiper
+Stock Dove
+Stone Curlew (Eurasian Thick-knee)
+Stonechat
+Storm Petrel
+Streaked (White-faced) Shearwater
+Streaked Weaver
+Striated (Little) Heron
+Striped Crake
+Subalpine Warbler
+Sudan Golden-Sparrow
+Summer Tanager
+Surf Scoter
+Swainson's Spurfowl
+Swainson's Thrush
+Swallow
+Swamp Francolin
+Swamp Sparrow
+Swierstra's Francolin
+Swift
+Swinhoe's Petrel
+Swinhoe's Snipe
+Sykes's Warbler
+Syrian Serin
+Syrian Woodpecker
+Tawny Eagle
+Tawny Owl
+Tawny Pipit
+Temmick's Horned Lark
+Temminck's Stint
+Tengmalm's (Boreal) Owl
+Tennessee Warbler
+Terek Sandpiper
+Thekla Lark
+Thick-billed Finch-lark
+Thick-billed Lark
+Thick-billed Warbler
+Three-toed Woodpecker
+Thrush Nightingale
+Tickell's Thrush
+Tree Pipit
+Tree Sparrow
+Treecreeper
+Tricoloured (Louisiana) Heron
+Tristam's Grackle (Starling)
+Tristram's Warbler
+Trumpeter Finch
+Tufted (Helmetted) Guinea Fowl
+Tufted Duck
+Turkey Vulture
+Turtle Dove
+Twite
+Two-barred (White-winged) Crossbill
+Two-barred Greenish Warbler
+Upcher's Warbler
+Upland Sandpiper
+Ural Owl
+Variable Wheatear
+Varied Thrush
+Veery
+Velvet (White-winged) Scoter
+Verreaux's Eagle
+Village (Black-headed) Weaver
+Wallcreeper
+Wandering Albatross
+Water Pipit
+Water Rail
+Wedge-tailed Shearwater
+Western Reef Heron
+Western Sandpiper
+Wheatear
+Whimbrel
+Whinchat
+Whiskered Tern
+White Billed Diver
+White Pelican
+White Stork
+White Wagtail
+White-backed Woodpecker
+White-bellied Storm Petrel
+White-breasted (throated) Kingfisher
+White-breasted Cormorant
+White-cheeked Tern
+White-crowned (-tailed) Black Wheatear
+White-crowned Penduline-Tit
+White-crowned Sparrow
+White-eared Bulbul
+White-eyed Gull
+White-faced (Frigate) Storm Petrel
+White-fronted Goose
+White-headed Duck
+White-rumped Sandpiper
+White-rumped Swift
+White's (Scaly) Thrush
+White-shouldered Starling
+White-spectacled Bulbul
+White-tailed Eagle
+White-tailed Plover
+Whitethroat
+White-throated Francolin
+White-throated Munia
+White-throated Robin
+White-throated Sparrow
+White-winged (Gould's/Collared) Petrel
+White-winged Black Tern
+White-winged Grosbeak
+White-winged Lark
+Whooper Swan
+Wigeon
+Wild Turkey
+Willet
+Willow Tit
+Willow Warbler
+Willow/Red Grouse
+Wilson's Petrel
+Wilson's Phalarope
+Wilson's Snipe
+Wilson's Warbler
+Wood Duck
+Wood Lark
+Wood Sandpiper
+Wood Thrush
+Wood Warbler
+Woodchat Shrike
+Woodcock
+Woodpigeon
+Wryneck
+Yelkouan Shearwater
+Yellow Warbler
+Yellow/Blue-headed Wagtail
+Yellow-billed Cuckoo
+Yellow-billed Grosbeak
+Yellow-billed Oxpecker
+Yellow-billed Stork (Wood Ibis)
+Yellow-breasted Bunting
+Yellow-browed Bunting
+Yellow-browed Warbler
+Yellowhammer
+Yellow-headed Blackbird
+Yellow-legged Gull
+Yellow-necked Spurfowl
+Yellow-nosed Albatross
+Yellow-rumped Warbler
+Yellow-throated Bunting
+Yellow-throated Vireo
